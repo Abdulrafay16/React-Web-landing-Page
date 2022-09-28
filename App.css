@@ -139,18 +139,16 @@ p {
 }
 
 .bi-whatsapp {
-    color: rgb(8, 109, 53);
+    color: rgb(26, 156, 0);
     margin-top: 2px;
     align-items: center;
     padding-left: 50px;
-    margin-left: 60px;
 }
 .bi-instagram{
-    color: red;
+    color: rgb(255, 0, 0);
     margin-top: 2px;
     align-items: center;
     padding-left: 50px;
-    margin-left: 60px;
 }
 
 .navbar-nav .nav-item  .nav-link a:hover{
